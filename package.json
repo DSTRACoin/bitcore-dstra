@@ -47,7 +47,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/DSTRACoin/bitcore-dstra.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -72,6 +72,7 @@
     "jsrsasign": "=0.0.3",
     "preconditions": "^1.0.7",
     "protobufjs": "=3.0.0",
+    "scrypt": "^6.0.3",
     "sjcl": "=1.0.1",
     "socks5-client": "~0.3.6"
   },
